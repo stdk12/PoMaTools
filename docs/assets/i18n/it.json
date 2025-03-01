@@ -10982,12 +10982,12 @@
       },
       "1202240": {
         "NAME": "Pioggia centrabersaglio riempibarra {{value}}",
-        "ABBR": "Pioggia centrabersaglio riempibarra {{value}}",
+        "ABBR": "Pioggia centrabers. riempib. {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di aggiungere 1 barretta alla barra mosse di chi la usa quando il suo attacco semplice colpisce mentre piove. Se la mossa è definita \"multicolpo\" alla voce \"Effetti\" e sta piovendo, ha una certa probabilità ({{chance}}%) di aggiungere 1 barretta alla barra mosse di chi la usa per ogni colpo."
       },
       "1202250": {
         "NAME": "Vietacambio attaccarica doppio {{value}}",
-        "ABBR": "Vietacambio attaccarica doppio {{value}}",
+        "ABBR": "Vietacam. attaccar. doppio {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di aggiungere 2 barrette alla barra mosse di chi la usa quando il suo attacco semplice contro un avversario affetto da \"Sostituzione vietata\" va a segno."
       },
       "1301010": {
@@ -11662,12 +11662,12 @@
       },
       "1302420": {
         "NAME": "Sole EX smussamosse plurime Acqua {{value}}",
-        "ABBR": "Sole EX smussamosse plurime Acqua {{value}}",
+        "ABBR": "Sole EX smussam. plurime Acqua {{value}}",
         "DESC": "Riduce i seguenti danni di tipo Acqua subiti da chi la usa quando c'è luce solare intensa EX: - Mosse - Unimosse - Mosse UniDynamax"
       },
       "1302430": {
         "NAME": "Pioggia EX smussamosse plurime Fuoco {{value}}",
-        "ABBR": "Pioggia EX smussamosse plurime Fuoco {{value}}",
+        "ABBR": "Pioggia EX smussam. plurime Fuoco {{value}}",
         "DESC": "Riduce i seguenti danni di tipo Fuoco subiti da chi la usa quando c'è pioggia EX: - Mosse - Unimosse - Mosse UniDynamax"
       },
       "1303010": {
@@ -13062,7 +13062,7 @@
       },
       "1701470": {
         "NAME": "Cerchia bloccafflizioni-G",
-        "ABBR": "Cerchia bloccafflizioni-G",
+        "ABBR": "Cerchia bloccaffl.-G",
         "DESC": "Impedisce a tutte le Unità alleate di subire problemi di stato, tentennare, venire confuse o venire imprigionate quando al campo alleato è applicata una Cerchia."
       },
       "1702010": {
@@ -14657,7 +14657,7 @@
       },
       "1707950": {
         "NAME": "Pioggia centrabersaglio Unibonus singolo {{value}}",
-        "ABBR": "Pioggia centrabersaglio Unibonus singolo {{value}}",
+        "ABBR": "Pioggia centrabers. Unibonus singolo {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di aumentare l'effetto \"Prossima Unimossa ↑\" di chi la usa di 1 grado quando il suo attacco semplice colpisce mentre piove. Se la mossa è definita \"multicolpo\" alla voce \"Effetti\" e sta piovendo, ha una certa probabilità ({{chance}}%) di aumentare l'effetto \"Prossima Unimossa ↑\" di chi la usa di 1 grado per ogni colpo."
       },
       "1707960": {
@@ -14667,7 +14667,7 @@
       },
       "1707970": {
         "NAME": "Reazione iperspeciale singola-G {{value}}",
-        "ABBR": "Reazione iperspeciale singola-G {{value}}",
+        "ABBR": "Reazione ipersp. singola-G {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di aumentare l'effetto \"Prossima mossa speciale ↑\" di tutte le Unità alleate di 1 grado quando chi la usa subisce un attacco semplice."
       },
       "1707980": {
@@ -14702,7 +14702,7 @@
       },
       "1708120": {
         "NAME": "Primentrata iperspeciale-G {{value}}",
-        "ABBR": "Primentrata iperspeciale-G {{value}}",
+        "ABBR": "Primentrata ipersp.-G {{value}}",
         "DESC": "Aumenta l'effetto \"Prossima mossa speciale ↑\" di tutte le Unità alleate di {{value}} gradi la prima volta che chi la usa entra in campo in ogni lotta."
       },
       "1708130": {
@@ -14712,7 +14712,7 @@
       },
       "1708140": {
         "NAME": "Campodanno Fuoco nemico attaccazzera {{value}}",
-        "ABBR": "Campodanno Fuoco nemico attaccazzera {{value}}",
+        "ABBR": "Campod. Fuoco nemico attaccaz. {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di applicare l'effetto \"Prossimo a costo zero\" a chi la usa quando il suo attacco semplice va a segno mentre al campo avversario è applicato Campodanno Fuoco."
       },
       "1708150": {
@@ -14722,7 +14722,7 @@
       },
       "1708160": {
         "NAME": "Pioggiattacco iperspeciale doppio {{value}}",
-        "ABBR": "Pioggiattacco iperspeciale doppio {{value}}",
+        "ABBR": "Pioggiatt. ipersp. doppio {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di aumentare l'effetto \"Prossima mossa speciale ↑\" di chi la usa di 2 gradi quando il suo attacco semplice va a segno mentre piove."
       },
       "1801010": {
@@ -16972,7 +16972,7 @@
       },
       "1812090": {
         "NAME": "Imprigionattacco rallentante doppiogrado {{value}}",
-        "ABBR": "Imprigionattacco rallentante doppiogrado {{value}}",
+        "ABBR": "Imprigionatt. rallentante doppiogr. {{value}}",
         "DESC": "Ha una certa probabilità ({{chance}}%) di ridurre la Velocità del bersaglio di 2 gradi quando l'attacco semplice di chi la usa va a segno contro bersagli imprigionati."
       },
       "1901010": {

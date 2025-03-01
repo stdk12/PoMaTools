@@ -10982,12 +10982,12 @@
       },
       "1202240": {
         "NAME": "Pluie Capacité Offensive Touche Jauge ↑ {{value}}",
-        "ABBR": "Pluie Capacité Offensive Touche Jauge ↑ {{value}}",
+        "ABBR": "Pluie C.Off. Touche Jauge ↑ {{value}}",
         "DESC": "{{chance}} % de chances de remplir la Jauge Capacité du lanceur de 1 segment quand sa capacité offensive atteint sa cible alors qu'il pleut. Si la capacité possède l'effet Enchaînement et qu'il pleut, {{chance}} % de chances de remplir la Jauge Capacité du lanceur de 1 segment à chaque coup."
       },
       "1202250": {
         "NAME": "Ennemi Carcan Capa. Offensive Jauge 2↑ {{value}}",
-        "ABBR": "Ennemi Carcan Capa. Offensive Jauge 2↑ {{value}}",
+        "ABBR": "Enn. Carcan C.Off. Jauge 2↑ {{value}}",
         "DESC": "{{chance}} % de chances de remplir la Jauge Capacité du lanceur de 2 segments quand il utilise avec succès une capacité offensive contre un ennemi sous l'effet Carcan."
       },
       "1301010": {
@@ -11662,12 +11662,12 @@
       },
       "1302420": {
         "NAME": "Soleil EX Stoï. Action C. D. C. D D. Eau {{value}}",
-        "ABBR": "Soleil EX Stoï. Action C. D. C. D D. Eau {{value}}",
+        "ABBR": "Sol.EX Stoï. Act. C.D. C.DD. Eau {{value}}",
         "DESC": "Réduit les dégâts de type Eau subis par le lanceur quand le soleil EX brille, causés par : - Les Capacités - Les Capacités Duo - Les Capacités Duo Dynamax"
       },
       "1302430": {
         "NAME": "Pluie EX Stoï. Action C. D. C. D D. Feu {{value}}",
-        "ABBR": "Pluie EX Stoï. Action C. D. C. D D. Feu {{value}}",
+        "ABBR": "Plu.EX Stoï. Act. C.D. C.DD. Feu {{value}}",
         "DESC": "Réduit les dégâts de type Feu subis par le lanceur quand la pluie EX tombe, causés par : - Les Capacités - Les Capacités Duo - Les Capacités Duo Dynamax"
       },
       "1303010": {
@@ -11692,7 +11692,7 @@
       },
       "1303050": {
         "NAME": "Aiguisé Action Capacité Duo Critique",
-        "ABBR": "Aiguisé Action Capacité Duo Critique",
+        "ABBR": "Aiguisé Action Capa. Duo Crit.",
         "DESC": "Les capacités du lanceur n'échouent jamais. Inflige un coup critique si les attaques suivantes du lanceur atteignent leur cible (sauf dans certains cas) : capacités du Pokémon ou capacité Duo."
       },
       "1305010": {
@@ -12052,7 +12052,7 @@
       },
       "1308310": {
         "NAME": "Soleil Coach Action Capacité Duo Sol {{value}}",
-        "ABBR": "Soleil Coach Action Capacité Duo Sol {{value}}",
+        "ABBR": "Soleil Coa. Action C.Duo Sol {{value}}",
         "DESC": "Augmente la puissance des capacités de type Sol et des capacités Duo de type Sol de tous les Duos alliés quand le soleil brille."
       },
       "1308320": {
@@ -12292,12 +12292,12 @@
       },
       "1501440": {
         "NAME": "Prem. Union de Paldea Util. Compteur ↓ {{value}}",
-        "ABBR": "Prem. Union de Paldea Util. Compteur ↓ {{value}}",
+        "ABBR": "Prem. U.Paldea Util. Compt. ↓ {{value}}",
         "DESC": "Réduit de {{value}} le nombre d'actions nécessaires pour lancer une capacité Duo pour le lanceur la première fois qu'il utilise Union de Paldea à chaque combat."
       },
       "1501450": {
         "NAME": "Intro Prem. Capacité Duo Compteur ↓ {{value}}",
-        "ABBR": "Intro Prem. Capacité Duo Compteur ↓ {{value}}",
+        "ABBR": "Intro Prem. C.Duo Compt. ↓ {{value}}",
         "DESC": "Réduit de {{value}} le nombre d'actions nécessaires pour lancer une capacité Duo pour le lanceur la première fois qu'il arrive au combat à chaque combat. Réduit de {{value}} le nombre d'actions nécessaires pour lancer une capacité Duo la première fois que le lanceur utilise une capacité Duo à chaque combat."
       },
       "1502010": {
@@ -12782,7 +12782,7 @@
       },
       "1601990": {
         "NAME": "Pluie Coach Puissance Capacité Duo {{value}}",
-        "ABBR": "Pluie Coach Puissance Capacité Duo {{value}}",
+        "ABBR": "Pluie Coa. Puis. Capa. Duo {{value}}",
         "DESC": "Augmente la puissance des capacités Duo de tous les Duos alliés quand il pleut."
       },
       "1602010": {
@@ -13062,7 +13062,7 @@
       },
       "1701470": {
         "NAME": "Cercle Coach Immu. Altérations Tourments",
-        "ABBR": "Cercle Coach Immu. Altérations Tourments",
+        "ABBR": "Cercle Coa. Immu. Altér. Tourm.",
         "DESC": "Protège tous les Duos alliés des altérations de statut, de la peur, de la confusion ou du ligotage quand un cercle s'applique au côté allié."
       },
       "1702010": {
@@ -14657,17 +14657,17 @@
       },
       "1707950": {
         "NAME": "Pluie Capa. Off. Touche Boost C. Duo +1 {{value}}",
-        "ABBR": "Pluie Capa. Off. Touche Boost C. Duo +1 {{value}}",
+        "ABBR": "Plu. C.Off. Touche Boost C.D. +1 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité Duo du lanceur de 1 rang quand sa capacité offensive atteint sa cible alors qu'il pleut. Si la capacité possède l'effet Enchaînement et qu'il pleut, {{chance}} % de chances d'augmenter l'effet Prochain boost capacité Duo du lanceur de 1 rang à chaque coup."
       },
       "1707960": {
         "NAME": "Réflexe Coach Boost Physique +1 {{value}}",
-        "ABBR": "Réflexe Coach Boost Physique +1 {{value}}",
+        "ABBR": "Réflexe Coa. Boost Phy. +1 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité physique de tous les Duos alliés de 1 rang quand le lanceur subit une capacité offensive."
       },
       "1707970": {
         "NAME": "Réflexe Coach Boost Spécial +1 {{value}}",
-        "ABBR": "Réflexe Coach Boost Spécial +1 {{value}}",
+        "ABBR": "Réflexe Coa. Boost Spé. +1 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité spéciale de tous les Duos alliés de 1 rang quand le lanceur subit une capacité offensive."
       },
       "1707980": {
@@ -14702,27 +14702,27 @@
       },
       "1708120": {
         "NAME": "Intro Coach Boost Spécial {{value}}",
-        "ABBR": "Intro Coach Boost Spécial {{value}}",
+        "ABBR": "Intro Coa. Boost Spé. {{value}}",
         "DESC": "Augmente l'effet Prochain boost capacité spéciale de tous les Duos alliés de {{value}} rang la première fois que le lanceur arrive au combat à chaque combat."
       },
       "1708130": {
         "NAME": "Réflexe Capacité Duo Boost Physique +2 {{value}}",
-        "ABBR": "Réflexe Capacité Duo Boost Physique +2 {{value}}",
+        "ABBR": "Réflexe C.Duo Boost Phy. +2 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité physique du lanceur de 2 rangs quand il subit une capacité Duo."
       },
       "1708140": {
         "NAME": "Enn. Aire Dégâts Feu Capa. Off. Conso. 0 {{value}}",
-        "ABBR": "Enn. Aire Dégâts Feu Capa. Off. Conso. 0 {{value}}",
+        "ABBR": "Enn. A.Dég. Feu C.Off. Conso. 0 {{value}}",
         "DESC": "{{chance}} % de chances d'appliquer l'effet Conso. 0 assurée au lanceur quand il utilise avec succès une capacité offensive alors que l'Aire Dégâts Feu s'applique au côté ennemi."
       },
       "1708150": {
         "NAME": "Réflexe Coach Boost Capacité Duo +1 {{value}}",
-        "ABBR": "Réflexe Coach Boost Capacité Duo +1 {{value}}",
+        "ABBR": "Réflexe Coa. Boost Capa. Duo +1 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité Duo de tous les Duos alliés de 1 rang quand le lanceur subit une capacité offensive."
       },
       "1708160": {
         "NAME": "Pluie Capa. Offensive Boost Spécial +2 {{value}}",
-        "ABBR": "Pluie Capa. Offensive Boost Spécial +2 {{value}}",
+        "ABBR": "Pluie Capa. Off. Boost Spé. +2 {{value}}",
         "DESC": "{{chance}} % de chances d'augmenter l'effet Prochain boost capacité spéciale du lanceur de 2 rangs quand il utilise avec succès sa capacité offensive alors qu'il pleut."
       },
       "1801010": {
@@ -16972,7 +16972,7 @@
       },
       "1812090": {
         "NAME": "Ennemi Ligoté Capa. Offensive Vitesse 2↓ {{value}}",
-        "ABBR": "Ennemi Ligoté Capa. Offensive Vitesse 2↓ {{value}}",
+        "ABBR": "Enn. Ligoté Capa. Off. Vit. 2↓ {{value}}",
         "DESC": "{{chance}} % de chances de baisser la Vitesse de la cible de 2 rangs quand le lanceur utilise avec succès une capacité offensive contre les cibles qui sont ligotées."
       },
       "1901010": {
@@ -17797,17 +17797,17 @@
       },
       "1905550": {
         "NAME": "Cercle de Hoenn Physique Prolongé {{value}}",
-        "ABBR": "Cercle de Hoenn Physique Prolongé {{value}}",
+        "ABBR": "C.Hoenn Physique Prolongé {{value}}",
         "DESC": "Cercle de Hoenn Physique dure plus longtemps quand Cercle de Hoenn Physique est appliqué au côté allié."
       },
       "1905560": {
         "NAME": "Cercle de Johto Défensif Prolongé {{value}}",
-        "ABBR": "Cercle de Johto Défensif Prolongé {{value}}",
+        "ABBR": "C.Johto Défensif Prolongé {{value}}",
         "DESC": "Cercle de Johto Défensif dure plus longtemps quand Cercle de Johto Défensif est appliqué au côté allié."
       },
       "1905570": {
         "NAME": "Prem. Union de Paldea Util. Zone Fée",
-        "ABBR": "Prem. Union de Paldea Util. Zone Fée",
+        "ABBR": "Prem. U.Paldea Util. Zone Fée",
         "DESC": "Transforme la zone en une Zone Fée la première fois que le lanceur utilise Union de Paldea à chaque combat. (Une Zone Fée renforce les attaques de type Fée.)"
       },
       "2001010": {
