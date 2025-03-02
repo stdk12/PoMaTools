@@ -24756,7 +24756,12 @@
         "power": 200,
         "accuracy": 101,
         "target": "TARG_004",
-        "powerup": [],
+        "powerup": [
+            [
+                "TARG_016",
+                "WTHR_002"
+            ]
+        ],
         "tags": ""
     },
     "116500": {
