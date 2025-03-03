@@ -4160,7 +4160,7 @@
         "conditions": [
             [
                 "MOVE_16",
-                "86"
+                "89"
             ]
         ],
         "type": "POWERUP",
@@ -4186,9 +4186,7 @@
         "times": "ALWAYS",
         "conditions": [
             [
-                "TYPE_013"
-            ],
-            [
+                "TYPE_009",
                 "TARG_016",
                 "WTHR_002"
             ]
